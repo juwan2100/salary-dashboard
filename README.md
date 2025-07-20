@@ -8,4 +8,4 @@ Employee salary analytics dashboard is for users to visualize employees educatio
 3.	Dashboard
 
 
-Example: 
+Example: https://github.com/juwan2100/salary-dashboard/blob/main/Screenshot%20salary%20dashboard.png
